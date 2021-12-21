@@ -10,7 +10,7 @@ int main()
     if (n == 0)
     {
         cout << "Последовательность не задана";
-        return 1;
+        return 0;
     }
     while (n != 0)
     {
